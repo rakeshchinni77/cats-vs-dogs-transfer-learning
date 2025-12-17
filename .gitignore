@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset files (too large)
+data/**
+
+# Models (can be large; keep later if needed)
+models/*.h5
+
+# Environment
+.env
