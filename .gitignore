@@ -9,11 +9,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Dataset files (too large)
-data/**
-
-# Models (can be large; keep later if needed)
-models/*.h5
+# Dataset files (too large – MUST NOT be pushed)
+data/
 
 # Environment
 .env
