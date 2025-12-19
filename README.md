@@ -18,6 +18,12 @@ evaluation, and interpretability using Grad-CAM.
 
 **Dataset:** Dogs vs Cats (Microsoft Asirra)  
 **Source:** Kaggle
+**Link:**
+
+```
+https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
+
+```
 
 The dataset consists of labeled RGB images of cats and dogs. The raw dataset was
 manually organized into training, validation, and test sets to support proper
@@ -202,4 +208,3 @@ careful fine-tuning, thorough evaluation, and interpretability techniques, the
 final model achieves high accuracy while remaining efficient and explainable.
 
 
-```
