@@ -31,6 +31,7 @@ model evaluation.
 
 **Directory Structure:**
 
+```
 data/
 ├── train/
 │ ├── cats/
@@ -41,6 +42,7 @@ data/
 └── test/
 ├── cats/
 └── dogs/
+```
 
 ---
 
