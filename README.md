@@ -162,7 +162,10 @@ Training and validation accuracy and loss curves are provided in:
 
 ### Training Curves
 
+```
 ![Training Curves](reports/training_curves.png)
+
+```
 
 These curves show **stable convergence** and **minimal overfitting** during the fine-tuning phase.
 
@@ -179,10 +182,10 @@ artifacts.
 
 Grad-CAM examples are available in:
 
-```text
+```
 reports/gradcam_examples/
 
-
+```
 ---
 
 ## 10. Reproducibility
