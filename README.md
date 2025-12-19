@@ -48,6 +48,8 @@ data/
 
 ## 3. Project Folder Structure
 
+```
+
 cats-vs-dogs-transfer-learning/
 │
 ├── data/ # Dataset (not committed to GitHub)
@@ -80,6 +82,8 @@ cats-vs-dogs-transfer-learning/
 │
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
+
+```
 
 ---
 
