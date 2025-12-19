@@ -14,3 +14,4 @@ data/
 
 # Environment
 .env
+!models/*.h5
